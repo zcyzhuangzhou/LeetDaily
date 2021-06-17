@@ -34,7 +34,7 @@
 // Related Topics 递归 
 // 👍 150 👎 0
 
-package leetDaily.leetcode.editor.cn;
+package leetcode.editor.cn;
 public class FeiBoNaQiShuLieLcof {
     public static void main(String[] args) {
         Solution solution = new FeiBoNaQiShuLieLcof().new Solution();
